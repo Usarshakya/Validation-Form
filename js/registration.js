@@ -14,6 +14,6 @@ $(document).ready(function() {
       alert("You have Successfully Registered.....");
     }
     $("form")[0].reset();
-    });    
-  });
+  });    
+});
 
